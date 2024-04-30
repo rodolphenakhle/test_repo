@@ -6,3 +6,5 @@ def detail_print(s):
     print(" is a ", end='')
     print(type(s))
 
+def your_print(s):
+    print(s)
